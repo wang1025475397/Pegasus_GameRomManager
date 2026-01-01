@@ -2,7 +2,7 @@
 
 ## 简介
 
-游戏ROM管理器是一个基于Python和PyQt5的桌面应用程序，用于管理和展示游戏ROM集合。该程序通过解析Pegasus前端的metadata.pegasus.txt文件来加载游戏信息，并关联媒体资源，提供直观的用户界面来浏览和管理游戏集合。
+Pegasus_GameRomManager是一个基于Python和PyQt5的桌面应用程序，用于管理和展示游戏ROM集合。该程序通过解析Pegasus前端的metadata.pegasus.txt文件来加载游戏信息，并关联媒体资源，提供直观的用户界面来浏览和管理游戏集合。
 
 ## 功能特性
 
