@@ -8,7 +8,7 @@
 
 ### V1.1.0即将发布
 - 预计2.15发布，支持在线刮削（汉化游戏），批量添加游戏，排序，筛选检索等功能
-- ![项目截图]界面截图.png
+- ![界面截图](https://github.com/wang1025475397/Pegasus_GameRomManager/blob/main/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE.png)
 
 ### 🎮 游戏管理
 - **自动扫描与解析**：扫描指定目录及其子目录下的 `metadata.pegasus.txt` 文件，自动提取游戏和平台信息
