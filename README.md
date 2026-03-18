@@ -4,7 +4,7 @@
 
 天马前端游戏ROM管理器是一款专为管理游戏ROM集合而设计的桌面应用程序。该软件主要用于管理和展示Pegasus前端的游戏ROM集合，支持元数据刮削和媒体资源管理，特别适合复古游戏爱好者、游戏前端用户以及游戏收藏家使用。
 
-![界面截图](https://github.com/wang1025475397/Pegasus_GameRomManager/edit/main/界面截图.png)
+![界面截图](https://github.com/wang1025475397/Pegasus_GameRomManager/blob/main/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE.png)
 ## 主要功能特性
 
 ### 🎮 游戏管理
